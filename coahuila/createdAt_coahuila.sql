@@ -1,4 +1,4 @@
 
     insert into datetime_at(id, created_at, updated_at)
-    value(UUID_TO_BIN('aa330228-0b1e-4a1d-a317-a40cb7ec19b6'), '2020-06-12 00:40:01', '2020-06-12 00:40:01');
+    value(UUID_TO_BIN('93843768-33f6-4ba7-aec8-a0def1b941dc'), '2020-06-15 23:22:14', '2020-06-15 23:22:14');
     
