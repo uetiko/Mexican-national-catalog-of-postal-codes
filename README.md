@@ -15,7 +15,9 @@ each entity or state is separated by folders, these folders contain the sql file
 ## Install
 
 ### First
-The `model.sql` has a sql model to loader in your database schema
+The `model.sql` has a sql model to loader in your database schema. 
+
+you need load the `zone.sql` and `settlement_type.sql` 
 
 ### Second
 select the state file that you want to load, execute all sql files and execute to the end the file that have named: `postCodeJoin_< state >.sql`
