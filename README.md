@@ -20,7 +20,7 @@ The `model.sql` has a sql model to loader in your database schema.
 you need load the `zone.sql` and `settlement_type.sql` 
 
 ### Second
-select the state file that you want to load, execute all sql files and execute to the end the file that have named: `postCodeJoin_< state >.sql`
+select the state file that you want to load, execute the `load.sql` file.
 
 If you want to save the way you query the data in this database, you can make a view as below and have the data processed in a read-only view (ideal for DDD):
 
